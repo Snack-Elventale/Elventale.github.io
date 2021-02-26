@@ -1,37 +1,147 @@
 ## Elventale-An AU of Imagination and Innocence
 
-**Ferryman:"Welcome to the world of Elventale , I'm sure you will have a really great time." **
+"Ferryman:"Welcome to the world of Elventale , I'm sure you will have a really great time." 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Elventale 精灵传说
 
-### Markdown
+（一指代AU的名字，二是指人类所讲述的关于怪物的故事或怪物讲述的关于人
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+类的故事）
 
-```markdown
-Syntax highlighted code block
+主题为童真与幻想
+有两个世界独立存在，
 
-# Header 1
-## Header 2
-### Header 3
+人类世界（怪物口中的梦幻之域）和怪物世界（人类口中的幻梦之域）
 
-- Bulleted
-- List
+两个世界同时出现，同时存在。
 
-1. Numbered
-2. List
+怪物世界诞生于人类世界的想象，而与此同时，人类世界也诞生于怪物世界的想象。
 
-**Bold** and _Italic_ and `Code` text
+ 
 
-[Link](url) and ![Image](src)
-```
+人类编写了怪物世界的故事，并将它们讲给孩子们听，同时怪物们也编写人类
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+世界的故事，将它们讲给怪物的孩子们听。这些故事被称为Elventale（即这
 
-### Jekyll Themes
+个AU的名字）
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Snack-Elventale/Elventale.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+两个世界互不干扰，独立却又依托着对方的想象力而存在着。
 
-### Support or Contact
+两个世界通过梦连接着，但只有保留某种特质的人（比如Frisk是决心）才能
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+在梦中看见对方的世界，而醒来后会将所有梦到的东西忘掉。
+
+一开始，无论是人类亦或是怪物，都对彼此的故事深信不疑，并向往着对方的
+
+世界。但是随着时间的流逝，因为从没有人去过另外的世界，人们渐渐觉得这个故事是虚假的，不可信的，人们要用他们所谓的【理智】去看待事物，这就是所谓【成年】，而生活节奏的加快更是催化了这一效果。于是这【Elventale】的故事便被渐渐淡忘了，尤其是在人类世界，只有少数保留童真的人仍在讲述流传。
+
+ 
+
+一天，在怪物世界，一位德洛丽丝（怪物世界的宗教之一，其信徒相信人类世界的存在）信徒醒来，发现自己的身上有墨水写下的文字：【你梦见了！】而他的手上沾满墨水，这字毫无疑问是他自己写的，他兴奋不已，因为对他来说，人类世界是他向往的地方，但对于到底梦见了什么，他全部都忘记了
+
+ 
+
+一开始，大多数怪物居民都认为他只是在博人眼球，但后来这样的事件越来越多，这引起了国王艾斯戈尔的注意，他安排神职人员用特殊魔法窥视人们的梦境，发现他们梦到的世界几乎一模一样，这就不能用巧合来解释了。
+
+ 
+
+于是他立刻组建了皇家科学院对此进行探索，但只有三个人加入按加入先后顺序排列是 Gaster Alphys Ferryman（摆渡人，对应原版船夫）因为在怪物世界，居民仍保留着古老的生活方式，因为他们认为不停开发科技会毁了他们的生活。比起失去美好的世界，他们更愿意多出出力。但是也有少数像Gaster这样的怪物存在。
+
+ 
+
+
+加斯特·奥德泔·霍华德 人设（禁止盗图）
+
+
+
+
+Gaster凭借自己的科学天赋成为了皇家科学院院长，并在研究中取得了重大成效，他发现人类世界的居民在向孩子们讲述怪物世界的故事，于是，他提出了一个重大的猜想：怪物与人类诞生于彼此的想象（在此之前，怪物们只认为人类世界诞生于怪物的想象，但不认为怪物来自人类的想象）
+
+ 
+
+摆渡人在Gaster提出猜想之后对人类世界更加狂热，并在Muffet那里做了交易
+
+（玛菲特的能力是等价交换），以自己的身体被虚无代替为代价，换取穿梭于两个世界的能力。
+
+但他回家时，家中人因为他变成一团虚无而觉得他是个不祥之物，拼命将他逐出家门。他只得流离失所。
+
+ 
+
+
+摆渡人 初版人设（禁止盗图） 作者Hapler
+
+
+后来，摆渡人遇到了爱人，对方一点也不在意他是否是虚无，摆渡人再次感受到了家的温暖，但在一次他的爱人想要去吻他时，虚无突然暴走，将她的整个头颅吞噬，她因此而死，摆渡人陷入崩溃与自责，
+
+ 
+
+对方的家人将摆渡人告上法庭，摆渡人被理所当然地判了死刑，但在执行官执行死刑时，发现无论是刀剑或是魔法都会在接触他的那一瞬间被虚无吞噬，
+
+ 
+
+无法执行死刑，执行官只好去玛菲特那里交换杀死摆渡人的方法。玛菲特因为被Gaster救过一命，把这件事告诉了Gaster，Gaster立刻对摆渡人的新能力（穿梭于两个世界）产生极大兴趣，于是用自己的召唤术制造骗局，救出摆渡人。摆渡人在那之后成为Gaster的左膀右臂，通过探索人类世界为 Gaster提供研究材料。
+
+ 
+
+一次，出于好奇心，摆渡人将一个名为Blenda的女孩带到了怪物世界，
+
+因为她是摆渡人发现的第一个在人类世界能看到自己的人（因为Blenda的特质是【幻想】）
+
+Gaster对Blenda产生浓厚兴趣，把她放在自己的工作室里。但Blenda不想被关在工作室，她出逃了，想见识见识怪物的世界。
+
+ 
+
+但是她发现街上的怪物们向她投来了厌恶的目光，她很是不满，于是幻想着自己能够统治，支配怪物世界，
+
+ 
+
+然后她真正的做到了，她才反应过来，因为怪物世界来自于人类的想象，她拥有极强的想象
+
+力，足够在怪物世界通过幻想改变怪物世界。
+
+ 
+
+她凭自己强大的能力控制了艾斯戈尔，艾斯戈尔在失去意识的最后一刻将妻子推出城堡，并关上城堡大门，将自己于Blenda关在一起，由于城堡大门的制作材料是摆渡人从人类世界带来的，Blenda的想象力影响不到它，于是Blenda也被困在这里。
+
+ 
+
+于是Blenda便想出了下一个游戏，她幻想怪物世界建立了一个新城市，名为【弑者之城】，进到弑者之城的人可以随便杀人，但当然，进来的人也都面临着被杀的危险。
+
+ 
+
+很快，怪物世界被弑者之城搞得一团糟，更是出现了一个名为【Slaughter & Slake】的恐怖组织，他们已经不满足于只在弑者之城杀人了。
+
+
+安黛因·奥索维茨 手绘大致人设（禁止盗图）
+
+
+他们严重危害到居民的生活。居民们不知道为什么国王要建立这样一座城市，因为国王一直被关在城堡里。于是反对艾斯戈尔的人开始起义，为镇压起义，并抵抗恐怖组织，安黛因站了出来。她将原本的皇家守卫队更名为【精灵军】，暂时担任司令，致力维护居民生命安全。而谁也不知道Blenda还会玩出什么新花样。
+
+ 
+
+于是，Gaster有了自己的注意
+
+要想打败人类，就必须借助人类的力量
+这就是故事的开始。
+
+
+Elventale是一个全员向AU，每个人物都有其详细的背景设定及联系线索
+非衫吹（划重点）
+灵感来自于我逐渐丧失的童真
+本文仅包含部分人物设定，并非全部
+Gaster·Ordgan·Howards
+Alphys·Alfred
+Toriel·Dreemurr（婚前名为Toriel·Elaine）
+Asriel·Dreemurr
+Asgore·Dreemurr
+Undyne·Osowiec
+Papyrus·Edgar·Howards
+Ferryman
+Sans·Yvonne·Howards
+Metatton
+Muffet·Edema·Ruh
+Frisk·Enid
+Chara·Hugh
+Blenda·Evelyn
+
+等人物的具体设定会随小说逐步推出
